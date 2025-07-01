@@ -1,0 +1,5 @@
+(executable
+ (public_name dream-test)
+ (name main)
+ (libraries dream_test dream tyxml)
+ (preprocess (pps lwt_ppx tyxml-ppx)))

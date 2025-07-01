@@ -1,0 +1,4 @@
+(library
+ (name dream_test)
+ (libraries dream tyxml cohttp cohttp-lwt-unix)
+ (preprocess (pps lwt_ppx tyxml-ppx)))

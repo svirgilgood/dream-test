@@ -1,0 +1,14 @@
+.centered {
+  border: 2px solid rgb(75 70 74);
+  border-radius: 0.5em;
+  font: 1.2em sans-serif;
+  color: red;
+
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.prewrap {
+  white-space: pre-wrap;
+}
