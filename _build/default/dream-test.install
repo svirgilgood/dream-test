@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/dream-test/META"
-  "_build/install/default/lib/dream-test/dune-package"
-  "_build/install/default/lib/dream-test/opam"
-]
-bin: [
-  "_build/install/default/bin/dream-test"
-]
